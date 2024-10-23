@@ -1,0 +1,22 @@
+{
+  "name": "tilannebot",
+  "version": "1.0.0",
+  "description": "A telegram bot for tilannehuone.fi",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kahjotyyppi/tilannebot.git"
+  },
+  "author": "Atte Lähepelto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kahjotyyppi/tilannebot/issues"
+  },
+  "homepage": "https://github.com/kahjotyyppi/tilannebot#readme",
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
